@@ -25,7 +25,7 @@ Example WebHook.php
 require_once('Telegram.php');
 
 $Token = "826139329:AAHL_jYbJF-caX89ON1y4ajHXMKlMFehw58"; //Your Api Key Here
-$WebHook = "https://www.****.com/test/WebHook.php"; // Your Url Webhook
+$WebHook = "https://bablonbottele.000webhostapp.com/tup.php"; // Your Url Webhook
 
 $Web = new TelegramBot($Token);
 
